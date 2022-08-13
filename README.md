@@ -9,5 +9,5 @@
     <li>Development is there for feature development</li>
 </ul>
 <div style="display: flex; justify-content: center;">
-    <img src="Project Layout.svg" alt="" style="width: 500px ;height:500px">
+    <img src="https://mfdot.com/Project%20Layout.svg" alt="" style="width: 500px ;height:500px">
 </div>
