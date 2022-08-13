@@ -11,3 +11,8 @@
 <div style="display: flex; justify-content: center;">
     <img src="https://mfdot.com/Project%20Layout.svg" alt="" style="width: 500px ;height:500px">
 </div>
+<h2>Depending on the project the git ignore will be configured to ignore cache/compile files of said project type.
+</h2>
+<p>For example: For a C# Project is going to ignore the "bin","obj" folders.</p>
+<h2>In most cases to secure confidential data the project will most likely implement a JSON file which will be ignored.</h2>
+<p>For example: If a database log in / API key will be stored in the JSON which will NOT be on the repository.</p>
